@@ -94,8 +94,12 @@ public class Menu extends JFrame{
         deleteButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                if (selectedIndex >= 0){
-                    deleteData();
+                // Tampilkan confirmation prompt
+                int option = JOptionPane.showConfirmDialog(null, "Apakah Anda yakin ingin menghapus data ini?", "Konfirmasi Penghapusan", JOptionPane.YES_NO_OPTION);
+
+                // Cek jika pengguna menekan tombol Yes
+                if (option == JOptionPane.YES_OPTION) {
+                    deleteData(); // Hapus data jika pengguna menekan tombol Yes
                 }
             }
         });
