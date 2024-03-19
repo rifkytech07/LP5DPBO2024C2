@@ -20,11 +20,10 @@ Lalu, terdapat formulir data mahasiswa yang terdiri dari:
 - Kalau pengguna ingin menghapus data salah satu mahasiswa, pengguna bisa klik baris data mahasiswa yang ingin dihapus, maka tombol "Delete" akan muncul dan pengguna bisa mengklik tombol "Delete". Setelah diklik, maka data telah berhasil dihapus
 - Terdapat pula tombol "Cancel". Ketika pengguna memasukkan data mahasiswa, lalu mengklik "Cancel", maka data yang dimasukkan akan terhapus
 
-  # Dokumentasi
+  # Dokum
+
+https://github.com/rifkytech07/LP5DPBO2024C2/assets/147624515/64e3ca55-b3ec-4fbd-9d7b-38fbbd9d5688
+
+entasi
   
-
-
-
-
-https://github.com/rifkytech07/LP5DPBO2024C2/assets/147624515/e81f9c0b-4254-41bf-bd53-7dfa8687bf63
 
